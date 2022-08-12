@@ -1,12 +1,13 @@
 # IFVLAB
 ## 这里是IFVLAB的官方站点~  
-[主站(等待备案)](https://ifvtechnology.net)  
+[主站](https://ifvlab.com)  
 [论坛](https://forum.ifvlab.com)  
-[博客(等待备案)](https://blog.ifvtechnology.net)  
+[博客(不可用)](https://blog.ifvlab.com)  
+[IRC](IRC.md)  
 
 ---
 
-[PGP公钥](PGP.md)  
+[GPG公钥](GPG/GPG.md)  
 
 ---
 
